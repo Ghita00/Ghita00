@@ -20,6 +20,7 @@
 <h4>Sviluppatore full stack presso Almaviva Digital tech</h4>
 Realizzo software che hanno come target principale le pubbliche amministrazioni delle diverse regioni italiane come la regione Veneto oppure la regione Campana.
 Durante il mio percorso sto imparando come:
+
 - utilizzare programmi di versionamento
 - utilizzare programmi e tecniche di organizzazione in team per migliorare il lavoro collaborativo
 - svilluppare seguendo delle codeline chiare e standardizzate
@@ -27,12 +28,11 @@ Durante il mio percorso sto imparando come:
 
 <h4>Sviluppo siti per liberi professioniti o aziende</h4>
 Ho realizzato diversi siti web per liberi professionisti che PMI utilizzando sia tecnologie "code" che "nocode". In questa esperienza ho imparato:
+
 - come relazionarmi con le aziende
 - autogestirtmi il carico e le tempistiche
 - comprendere le priorità di progetto
 - stimare i diversi task
-
-</br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghita00&show_icons=true&locale=en&layout=compact" alt="ghita00" /></p>
 
