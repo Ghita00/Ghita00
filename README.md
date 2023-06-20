@@ -35,10 +35,12 @@ Ho realizzato diversi siti web per liberi professionisti che PMI utilizzando sia
 - stimare i diversi task
 
 <h4>Sviluppo progetto di tesi/tirocinio</h4>
-Durante questo progetto ho avuto la possibilità di sviluppare un gestionale per una pasticceria, composto sia da una parte di frontoffice, dove tutti i visitatori possono esservare i vari prodotti che compongono la parte ecommerce, leggere gli articoli pubblicati e molto altro, sia da una parte di backoffice dove il titolare della pasticceria può gestire tutta la visualizzazione delle informazioni nella parte di frontoffice, ma può gestire anche la produzione, le gicenze di magazzino e gli stipendi dei dipendenti. Durante questo progetto ho imparato come:
+Durante questo progetto ho avuto la possibilità di sviluppare un gestionale per una pasticceria, composto sia da una parte di frontoffice, dove tutti i visitatori possono osservare i vari prodotti che compongono la parte ecommerce, leggere gli articoli pubblicati e molto altro, sia da una parte di backoffice dove il titolare della pasticceria può gestire tutta la visualizzazione delle informazioni nella parte di frontoffice, ma può gestire anche la produzione, le giacenze di magazzino e gli stipendi dei dipendenti. Durante questo progetto ho imparato come:
 
 - sviluppare portali differenti che devono rimanere in comunicazione
 - strutturare una UX e UI sia per un sito classico che per una dashboard interattiva
+- Studiare i flussi aziendali e concretizzarli all'interno di una documentazione
+- Lavorare in team con altri developer
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghita00&show_icons=true&locale=en&layout=compact" alt="ghita00" /></p>
 
