@@ -48,4 +48,3 @@ Ho realizzato diversi siti web per liberi professionisti che PMI utilizzando sia
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghita00&show_icons=true&locale=en&layout=compact" alt="ghita00" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ghita00&" alt="ghita00" /></p>
-](url)
