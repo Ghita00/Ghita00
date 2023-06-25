@@ -46,7 +46,7 @@ Durante questo progetto ho avuto la possibilità di sviluppare un gestionale per
 - Lavorare in team con altri developer
 
 <h4>Sviluppo siti per liberi professioniti e aziende</h4>
-<p>è un "hobbie" sporadico non definito, mai avvenuto in modo continuativo</p>
+<p>è un "hobby" sporadico non definito, mai avvenuto in modo continuativo</p>
 Ho realizzato diversi siti web per liberi professionisti che PMI utilizzando sia tecnologie "code" che "nocode". In questa esperienza ho imparato:
 
 - come relazionarmi con le aziende
@@ -56,6 +56,4 @@ Ho realizzato diversi siti web per liberi professionisti che PMI utilizzando sia
 
 <h3 align="left">Alcune statistiche📈</h3>
 
-<p><img align="left" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghita00&show_icons=true&locale=en&layout=compact" alt="ghita00" /></p>
-
-<p><img align="right" width="56%" src="https://github-readme-streak-stats.herokuapp.com/?user=ghita00&" alt="ghita00" /></p>
+<img align="left" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghita00&show_icons=true&locale=en&layout=compact" alt="ghita00" /><img align="right" width="56%" src="https://github-readme-streak-stats.herokuapp.com/?user=ghita00&" alt="ghita00" />
