@@ -56,6 +56,6 @@ Ho realizzato diversi siti web per liberi professionisti che PMI utilizzando sia
 
 <h3 align="left">Alcune statistiche📈</h3>
 
-<p><img align="left" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghita00&show_icons=true&locale=en&layout=compact" alt="ghita00" /></p>
+<p><img align="left" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghita00&show_icons=true&locale=en&layout=compact" alt="ghita00" /></p>
 
-<p><img align="right" width="58%" src="https://github-readme-streak-stats.herokuapp.com/?user=ghita00&" alt="ghita00" /></p>
+<p><img align="right" width="56%" src="https://github-readme-streak-stats.herokuapp.com/?user=ghita00&" alt="ghita00" /></p>
