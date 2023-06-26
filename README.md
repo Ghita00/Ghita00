@@ -21,7 +21,7 @@
   
   <h4>Università Ca Foscari - Informatica</h4>
   <p>Settembre 2019 - Oggi</p>
-  Sto svolgendo la mia formazione presso l'università di Ca Foscari, percorso di studi iformatico triennale 
+  Sto svolgendo la mia formazione presso l'università di Ca Foscari, percorso di studi informatico triennale 
 </p>
 
 <h3 align="left">Esperienze Lavorative🧑‍💻</h3>
