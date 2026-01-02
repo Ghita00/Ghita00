@@ -9,5 +9,5 @@ Sono uno sviluppatore frontend e laureato triennale in informatica presso l'univ
 - 🧑‍💻  [Progetto di programmazione](https://github.com/Ghita00/miniLaska)
 
 ## Contatti
-- 🤸‍♂️ [Linkedin](https://www.linkedin.com/in/giorgio-basile-382430170/)
+- 🤸‍♂️ [Linkedin](https://www.linkedin.com/in/giorgiobasile00/)
 - 📫 Email: **giorgiobasile631@gmail.com**
