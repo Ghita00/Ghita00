@@ -1,5 +1,5 @@
 # Hi 👋, I'm Giorgio Basile
-## Sono uno sviluppatore frontend e laureato triennale in informatica presso l'università Ca Foscari :)
+Sono uno sviluppatore frontend e laureato triennale in informatica presso l'università Ca Foscari :)
 
 ## Progetti personali
 - 🔭  [Progetto della tesi: Gestionale per una pasticceria](https://github.com/Ghita00/Tirocinio)
